@@ -40,6 +40,8 @@ ipv6 address 2001:DB8:1::1/64
 
 no shut
 
+banner motd #geen toegang!!! #
+
 line con 0
 
 password pxl
